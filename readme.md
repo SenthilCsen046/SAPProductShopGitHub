@@ -17,6 +17,12 @@ File or Folder | Purpose
 - (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
 - Start with your domain model, in a CDS file in `db/`
 
+## cds add data
+- it will add the data in CSV file inside the data folder of of DB file
+
+## cds watch --port 4005
+- Reset the port with new port
+
 ## Learn More
 
 Learn more at <https://cap.cloud.sap>.
